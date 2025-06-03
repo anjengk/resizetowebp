@@ -23,10 +23,6 @@ pip install Pillow
 Simpan script ini sebagai resize.py (atau nama lain).
 
 Jalankan melalui terminal/command prompt:
-
-bash
-Copy
-Edit
 python script.py
 Masukkan path folder yang berisi gambar produk saat diminta.
 
