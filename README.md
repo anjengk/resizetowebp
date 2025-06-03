@@ -16,7 +16,7 @@ Gambar yang lebarnya melebihi 1000 piksel akan diubah ukurannya secara proporsio
 - [Pillow](https://python-pillow.org) (Fork dari PIL)
 
 Instalasi Pillow:
-```bash
+
 pip install Pillow
 
 ▶️ Cara Penggunaan
